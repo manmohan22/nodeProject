@@ -1,0 +1,16 @@
+# Major topics
+
+=> make basic api 
+=> use with express.js
+=> ui with node.
+    -> ui event 
+    -> forms
+    -> webpages etc.
+    -> node.js event 
+    -> middleware
+    -> major package
+    -> connect with db
+    -> make major api.
+    -> api security and token
+    -> api vaildation
+    -> live with server.

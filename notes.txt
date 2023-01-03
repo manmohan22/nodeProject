@@ -1,0 +1,33 @@
+# What is node.js?
+    => node is not a language.
+    => this is a server enviorment.
+    => node.js can connent with db.
+    => code and syntex is very similar to js.
+    => but not exectly the same.
+    => node.js is free and open source.
+    => node.js use chrome's V8 engine to execute code.
+    => node.js is written in c,c++,js.
+    => first release 27 may 2009.
+
+# What do we use node?
+    => node.js mostly used for api.
+    => so we can connect the same db with web app & mobile app.
+    => node.js is easy to understand who know js 
+    => node is super fast for APIs.
+    => with node and js you can become full stack devloper.
+
+# js & node are not same?
+    => js and node code syntax is same.
+    => if you know js you can easily understand node.
+    => but both are not exactly the same.
+    => you can not connect js to db.
+    => node can connect with db.
+    => node.js run on server side.
+    => js is run on the browser.
+
+# why should learn?
+    => if you are a js devloper then you can easy learn node.
+    => you can become a full stack devloper.
+    => free and in demain for jobs.
+    => salary is also good as compare to web-devloper or php devloper.
+
